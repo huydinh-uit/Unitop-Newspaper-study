@@ -143,6 +143,8 @@ img{
   width: 50%;
 }
 .fl{
+  display: flex;
+  flex-direction: column;
   margin: 20px 57px 0px 23px
 }
 .logo-footer{
@@ -183,4 +185,8 @@ img{
 }
 .bot-info{
   font-size: 14px;
+}
+.icon{
+  width: 25%;
+  padding: 5px;
 }
